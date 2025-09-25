@@ -30,7 +30,8 @@ function App() {
             </>
           }
         />
-        <Route path="/service/:id" element={<ServiceDetail />} />
+        {/* Fixed path to match Services navigate */}
+        <Route path="/services/:id" element={<ServiceDetail />} />
       </Routes>
     </>
   );
