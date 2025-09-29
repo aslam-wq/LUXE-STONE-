@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom";
-import { ChevronLeft, Clock, Shield, Award, Truck } from "lucide-react";
+import { ChevronLeft, Clock, Shield, Award, Truck } from "./icons/InlineIcons";
 
 const SERVICE_DATA = {
   1: {

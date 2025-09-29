@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Menu, X } from "lucide-react";
+import { Menu, X } from "./icons/InlineIcons";
 import { useNavigate, useLocation } from "react-router-dom";
 
 const Navbar = () => {

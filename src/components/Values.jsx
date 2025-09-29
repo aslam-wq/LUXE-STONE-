@@ -1,6 +1,6 @@
 "use client";
 import { Card, CardHeader, CardTitle, CardContent } from "./ui/Card";
-import { CheckCircle } from "lucide-react";
+import { CheckCircle } from "./icons/InlineIcons";
 
 // Values data with public folder image paths
 const values = [

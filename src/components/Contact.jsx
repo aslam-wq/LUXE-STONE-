@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { MapPin, Phone, Mail, Globe, Send, CheckCircle } from "lucide-react";
+import { MapPin, Phone, Mail, Globe, Send, CheckCircle } from "./icons/InlineIcons";
 import emailjs from "@emailjs/browser";
 
 export default function ModernContact() {
